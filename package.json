@@ -18,7 +18,7 @@
     "openclaw": ">=2026.2.3"
   },
   "dependencies": {
-    "@kookapp/js-sdk": "file:../kook-js-sdk"
+    "@kookapp/js-sdk": "^0.1.0"
   },
   "devDependencies": {
     "typescript": "^5.7.0",

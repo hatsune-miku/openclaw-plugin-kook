@@ -1,0 +1,11 @@
+node_modules/
+dist/
+*.tsbuildinfo
+
+# AI-generated docs
+agent-docs/
+ARCHITECTURE.md
+CONVENTIONS.md
+
+# Claude Code
+.claude/

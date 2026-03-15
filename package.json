@@ -1,5 +1,5 @@
 {
-  "name": "openclaw-channel-kook",
+  "name": "@a1knla/openclaw-channel-kook",
   "version": "0.1.0",
   "description": "KOOK messaging channel for OpenClaw",
   "main": "src/index.ts",
